@@ -17,4 +17,4 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 * https://time-rainstorm.glitch.me/api/timestamp/
 
 #### Example output:
-* { "unix": 1450137600, "Date is ": "December 15, 2015" }
+* {"unix":1535786291939,"Date is ":"Sat, 01 Sep 2018 07:18:11 GMT"}
